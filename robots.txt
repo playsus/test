@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /assets
+Allow: /manifest
+Allow: /shortcuts
+Host: https://voldmc.com
+Sitemap: https://voldmc.com/sitemap.xml

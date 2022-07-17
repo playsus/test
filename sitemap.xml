@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="https://www.w3.org/1999/xhtml" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+<url>
+<loc>https://voldmc.000webhostapp.com</loc>
+<priority>1.00</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/rules.html</loc>
+<priority>1.00</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/rules.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/rules.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/rules.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/map.html</loc>
+<priority>0.8</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/map.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/map.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/map.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/vote.html</loc>
+<priority>1.00</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/vote.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/vote.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/vote.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/staff.html</loc>
+<priority>1.00</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/staff.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/staff.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/staff.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/offline.html</loc>
+<priority>0.8</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/offline.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/offline.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/offline.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+<url>
+<loc>https://voldmc.000webhostapp.com/index.html</loc>
+<priority>0.8</priority>
+<changefreq>daily</changefreq>
+<xhtml:link href="https://voldmc.000webhostapp.com/index.html" rel="alternate" hreflang="en"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/index.html" rel="alternate" hreflang="ru"/>
+<xhtml:link href="https://voldmc.000webhostapp.com/index.html" rel="alternate" hreflang="ua"/>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:loc>
+<image:caption>VOLDMC IMAGE SAMPLE</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE SAMPLE</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/SAMPLE.png</image:license>
+</image:image>
+<image:image>
+<image:loc>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:loc>
+<image:caption>VOLDMC IMAGE LOGO</image:caption>
+<image:geo_location>PHOTO</image:geo_location>
+<image:title>VOLDMC IMAGE LOGO</image:title>
+<image:license>https://voldmc.000webhostapp.com/assets/images/LOGO.png</image:license>
+</image:image>
+</url>
+</urlset>

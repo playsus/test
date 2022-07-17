@@ -1,0 +1,153 @@
+{
+"name": "VoldMc",
+"short_name": "Офіційний Сайт VoldMc | Офіційний Сервер Майнкрафт VoldMc",
+"description": "Офіційний Веб Додаток | Майнкрафт сервера VoldMc",
+"lang": "en",
+"start_url": "index.html",
+"scope": "index.html",
+"display": "minimal-ui",
+"orientation": "any",
+"background_color": "#FF1F00",
+"theme_color": "#FF1F00",
+"dir": "ltr",
+"id": "index.html",
+"icons": [
+{
+"src": "manifest/manifest-icon-80x80.png",
+"sizes": "80x80",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "manifest/manifest-icon-96x96.png",
+"sizes": "96x96",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "manifest/manifest-icon-128x128.png",
+"sizes": "128x128",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "manifest/manifest-icon-142x142.png",
+"sizes": "142x142",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "manifest/manifest-icon-192x192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "manifest/manifest-icon-512x512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "maskable"
+},
+{
+"src": "manifest/manifest-icon-600x600.png",
+"sizes": "600x600",
+"type": "image/png",
+"purpose": "maskable"
+}
+],
+"shortcuts" : [
+{
+"name": "VoldMc Home",
+"short_name": "VoldMc Home",
+"description": "VoldMc Home",
+"url": "https://voldmc.000webhostapp.com",
+"icons": [{ "src": "shortcuts/home.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Rules",
+"short_name": "VoldMc Rules",
+"description": "VoldMc Rules",
+"url": "https://voldmc.000webhostapp.com/rules.html",
+"icons": [{ "src": "shortcuts/rules.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Map",
+"short_name": "VoldMc Map",
+"description": "VoldMc Map",
+"url": "https://voldmc.000webhostapp.com/map.html",
+"icons": [{ "src": "shortcuts/map.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Vote",
+"short_name": "VoldMc Vote",
+"description": "VoldMc Vote",
+"url": "https://voldmc.000webhostapp.com/vote.html",
+"icons": [{ "src": "shortcuts/vote.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Staff",
+"short_name": "VoldMc Staff",
+"description": "VoldMc Staff",
+"url": "https://voldmc.000webhostapp.com/staff.html",
+"icons": [{ "src": "shortcuts/staff.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Store | Shop",
+"short_name": "VoldMc Store | Shop",
+"description": "VoldMc Store | Shop",
+"url": "https://voldmc-store.tebex.io",
+"icons": [{ "src": "shortcuts/store.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Index Html",
+"short_name": "VoldMc Index Html",
+"description": "VoldMc Index Html",
+"url": "https://voldmc.000webhostapp.com/index.html",
+"icons": [{ "src": "shortcuts/index.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Offline",
+"short_name": "VoldMc Offline",
+"description": "VoldMc Offline",
+"url": "https://voldmc.000webhostapp.com/offline.html",
+"icons": [{ "src": "shortcuts/offline.png", "sizes": "128x128","purpose": "any"}]
+},
+{
+"name": "VoldMc Sitemap Xml",
+"short_name": "VoldMc Sitemap Xml",
+"description": "VoldMc Sitemap Xml",
+"url": "https://voldmc.000webhostapp.com/sitemap.xml",
+"icons": [{ "src": "shortcuts/sitemap-xml.png", "sizes": "128x128","purpose": "any"}]
+}
+],
+"screenshots": [
+{
+"src": "https://playsus.github.io/voldmc-cdn/screenshot-1.png",
+"sizes": "1920x1080",
+"type": "image/png",
+"description": "VoldMc screenshot 2"
+},
+{
+"src": "https://playsus.github.io/voldmc-cdn/screenshot-2.png",
+"sizes": "1920x1080",
+"type": "image/png",
+"description": "VoldMc screenshot 2"
+}
+],
+"categories": [
+"games"
+],
+"related_applications": [
+{
+"platform": "play",
+"url": "https://voldmc.000webhostapp.com",
+"id": "com.voldmc.app"
+},
+{
+"platform": "itunes",
+"url": "https://voldmc.000webhostapp.com"
+}
+],
+"iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+"prefer_related_applications": false
+}
